@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! Welcome to Cloud World"
       introSubtitle = "..."
-      introPhoto = "/picture.jpg"
+      introPhoto = "/me.jpg"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -24,11 +24,6 @@ DefaultContentLanguageInSubdir = true
         name = "About"
         url = "page/about/"
         weight = 2
-
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
 
 [params]
   # Enable the darkmode toggle in header
@@ -52,7 +47,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+  copyright = "Copyright © 2023 - Cloud World · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -106,7 +101,7 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  description = "Cloud Engineer with a passion for helping others."
 
   [[params.homepage.social.icons]]
     website = "twitter"
@@ -114,12 +109,6 @@ DefaultContentLanguageInSubdir = true
   [[params.homepage.social.icons]]
     website = "linkedin"
     url = "https://linkedin.com/in/"
-  [[params.homepage.social.icons]]
-    website = "xing"
-    url = "https://www.xing.com/profile/"
-  [[params.homepage.social.icons]]
-    website = "telegram"
-    url = "https://t.me/"
   [[params.homepage.social.icons]]
     website = "github"
     url = "https://github.com/"
@@ -129,39 +118,7 @@ DefaultContentLanguageInSubdir = true
   [[params.homepage.social.icons]]
     website = "medium"
     url = "https://medium.com/"
-  [[params.homepage.social.icons]]
-    website = "reddit"
-    url = "https://reddit.com/"
-  [[params.homepage.social.icons]]
-    website = "dribbble"
-    url = "https://dribbble.com/"
-  [[params.homepage.social.icons]]
-    website = "stackoverflow"
-    url = "https://stackoverflow.com/"
-  [[params.homepage.social.icons]]
-    website = "xda"
-    url = "https://forum.xda-developers.com/"
-  [[params.homepage.social.icons]]
-    website = "tiktok"
-    url = "https://tiktok.com"
-  [[params.homepage.social.icons]]
-    website = "googlescholar"
-    url = "https://scholar.google.com/"
-  [[params.homepage.social.icons]]
-    website = "mastodon"
-    url = "https://joinmastodon.org"
-  [[params.homepage.social.icons]]
-    website = "youtube"
-    url = "https://youtube.com"
-  [[params.homepage.social.icons]]
-    website = "instagram"
-    url = "https://instagram.com"
-  [[params.homepage.social.icons]]
-    website = "facebook"
-    url = "https://facebook.com"
-  [[params.homepage.social.icons]]
-    website = "behance"
-    url = "https://behance.net"
+ 
 
 [[menu.main]]
   name = "About"
