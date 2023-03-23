@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Hey! Welcome to Cloud World"
-      introSubtitle = "..."
+      introSubtitle = "Welcome to my blog website focused on all things cloud technology!"
       introPhoto = "/me.jpg"
     [[languages.en.menu.main]]
         name = "Blog"
@@ -105,19 +105,13 @@ DefaultContentLanguageInSubdir = true
 
   [[params.homepage.social.icons]]
     website = "twitter"
-    url = "https://twitter.com/"
+    url = "https://mobile.twitter.com/zohebk8"
   [[params.homepage.social.icons]]
     website = "linkedin"
-    url = "https://linkedin.com/in/"
-  [[params.homepage.social.icons]]
-    website = "github"
-    url = "https://github.com/"
-  [[params.homepage.social.icons]]
-    website = "buymeacoffee"
-    url = "https://www.buymeacoffee.com/"
+    url = "https://www.linkedin.com/in/zoheb-hussain-37578a19/"
   [[params.homepage.social.icons]]
     website = "medium"
-    url = "https://medium.com/"
+    url = "https://medium.com/@meerzoheb"
  
 
 [[menu.main]]
