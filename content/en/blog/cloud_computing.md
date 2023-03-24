@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Cloud Computing"
-date: 2023-03-18T09:13:48Z
+date: 2023-02-18T09:13:48Z
 author: "Syed Zoheb"
 description: "This blog explores about what is cloud computing and why is it important!"
 ---
