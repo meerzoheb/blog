@@ -6,7 +6,7 @@ description: "Learn about public, private, and hybrid cloud deployment models an
 ---
 
 ## Introduction:
-Cloud computing offers businesses a range of deployment models to choose from, each with its own benefits and considerations. In this blog post, we'll introduce you to the three main cloud deployment models: Public, Private, and Hybrid Cloud, and explain their differences and applications.
+Cloud computing offers businesses a range of deployment models to choose from, each with its own benefits and considerations. In this blog post, I'll introduce you to the three main cloud deployment models: Public, Private, and Hybrid Cloud, and explain their differences and applications.
 
 ### [What is Public Cloud?](https://cloudworld.devopszoheb.com/blog/public_cloud/)
 

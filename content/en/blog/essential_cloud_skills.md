@@ -1,6 +1,6 @@
 ---
 title: "Cloud Skills: Essential Skills for a Career in Cloud Computing"
-date: 2023-02-25T00:00:00Z
+date: 2023-02-06T00:00:00Z
 author: "Syed Zoheb"
 description: "Learn the essential skills for a career in cloud computing, including cloud architecture, programming, networking, security, and DevOps. Get started with our guide."
 ---

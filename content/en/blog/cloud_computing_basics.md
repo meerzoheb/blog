@@ -6,7 +6,7 @@ description: "Learn the basics of cloud computing, its advantages, deployment & 
 ---
 
 ## Introduction:
-Cloud computing has become one of the most popular technologies in recent years, and for good reason. It offers a range of benefits over traditional on-premise computing, such as flexibility, scalability, and cost-effectiveness. In this blog post, we'll introduce you to the basics of cloud computing, including its definition, advantages, and different deployment and service models.
+Cloud computing has become one of the most popular technologies in recent years, and for good reason. It offers a range of benefits over traditional on-premise computing, such as flexibility, scalability, and cost-effectiveness. In this blog post, I'll introduce you to the basics of cloud computing, including its definition, advantages, and different deployment and service models.
 
 ### What is Cloud Computing?
 

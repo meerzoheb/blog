@@ -12,8 +12,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! Welcome to Cloud World"
-      introSubtitle = "Welcome to my blog website focused on all things cloud technology!"
+      introTitle = "Hey! Welcome to my blog Cloud World"
+      introSubtitle = "Here I make it easy for you to learn everything you need to know about cloud. From the basics to the latest trends and certifications, I've got you covered."
       introPhoto = "/me.jpg"
     [[languages.en.menu.main]]
         name = "Blog"
